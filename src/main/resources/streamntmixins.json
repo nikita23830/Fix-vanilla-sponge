@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.nikita23830.streamntmixins.mixins",
+  "mixins": [
+    "BlockSpongeMixin"
+  ],
+  "server": [],
+  "client": [],
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixin.streamsandmixin.refmap.json"
+
+}
